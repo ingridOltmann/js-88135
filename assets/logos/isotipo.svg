@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 51.64 44.08">
+  <defs>
+    <clipPath id="clippath">
+      <rect width="51.64" height="44.07" style="fill: none;"/>
+    </clipPath>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <polygon points="25.78 14.06 9.39 42.45 42.18 42.45 25.78 14.06" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 3.26px;"/>
+    <g style="clip-path: url(#clippath);">
+      <polygon points="25.89 3.49 1.04 46.52 50.73 46.52 25.89 3.49" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 3.26px;"/>
+      <rect x="-1.78" y=".75" width="54.41" height="43.9" style="fill: none;"/>
+      <rect width="51.64" height="44.65" style="fill: none;"/>
+    </g>
+  </g>
+</svg>
